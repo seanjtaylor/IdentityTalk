@@ -200,8 +200,11 @@
 
 ## Articulated Relationship
 
+<img src="img/relations.png" style="max-height: 80%">
+
 * friends
 * enemies
+* neutral
 * no relationship
 
 
