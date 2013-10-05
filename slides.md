@@ -138,7 +138,7 @@
 
 ## Model
 
-`\( \Pr(Y_{ijk} = 1| D_{jk}) \sim \alpha_{ij} + \delta_{ij} D_{jk}  \)`
+`\( \Pr(Y_{ijk} = 1| D_{jk}) \sim \alpha_{ij} + \delta D_{jk}  \)`
 
 * $Y_{ijk}$ &mdash; 1 if the viewer $k$ interacts with $i$'s comment $k$
 * $D_{jk}$ &mdash; viewer $j$ sees commenter for comment $k$
